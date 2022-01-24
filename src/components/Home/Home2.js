@@ -48,7 +48,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> RTOS and IoT Greengrass</b>
+                <b className="purple">RTOS, IoT Greengrass and </b>
               </i>
             </p>
           </Col>
